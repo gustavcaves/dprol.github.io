@@ -2,6 +2,10 @@
 # danielprol.github.io
 
 
+bundle install
+
+bundle exec jekyll serve
+
 base url: "gc_jekyll" in file called _config.yml
 
 git init
