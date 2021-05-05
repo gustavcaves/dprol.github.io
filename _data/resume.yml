@@ -2,7 +2,7 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Danny Prol"
+  name: "Gustav Caves"
   label: "A technologist building tools for Higher Ed." # Title: Building tools to help product teams make smarter, data-driven decisions
   picture: "/assets/icons/IMG_2993.jpg"
   email: "danielprolperez@gmail.com"
